@@ -1,0 +1,6 @@
+pubilc staic void main{
+
+ 
+}
+
+
